@@ -1,0 +1,10 @@
+Zeile 1: 1 oder 0 für loop ein oder aus
+Zeile 2: +/- für Delays in ms Bsp: Bei 100 Kann es von 1400 - 1600 sein wenn man 1500 eingibt
+Alles danach: Befehle:
+taste d/u Tasten: w,a,s,d,space,sneak(pfeil nach oben) d = runter u = hoch 
+Beispiel: w u = W - Taste anheben
+
+Hinweis:
+Nach einer Loop wird 2s. pausiert
+
+!!!ACHTUNG!!! Es muss alles klein geschrieben werden !!!ACHTUNG!!!
